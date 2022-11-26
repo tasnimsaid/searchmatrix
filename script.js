@@ -8,7 +8,7 @@ canvas.height = window.innerHeight;
 class Symbol {
    constructor(X , y ,fontSize , canvasHeight){
      
-    this.characters ='123456789azertyuiiofjkfkgfmfùfhykhjy';
+    this.characters ='هي سر حق طع ما نص لك';
     this.x=X;
     this.y = y;
     this.fontSize = fontSize;
